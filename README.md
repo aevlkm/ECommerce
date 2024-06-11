@@ -2,7 +2,7 @@
 
 Ce projet traite la partie du titre dédiée à la "Direction de projets de gestion de données". <br> 
 
-N'hésitez pas à consulter sa [présentation](00_Presentation/eCommerce.pptx?raw=true) 🙂 <br> <br>
+N'hésitez pas à consulter sa [présentation](00_Presentation/eCommerce.pdf?raw=true) 🙂 <br> <br>
 
 
 # 🛍 e-Commerce
