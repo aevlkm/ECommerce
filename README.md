@@ -9,8 +9,6 @@ N'hésitez pas à consulter sa [présentation](00_Presentation/Presentation_eCom
 
 ### "Optimiser les profits" <br> <br>
 
-Bienvenue dans d'analyse de données e-commerce, conçu pour répondre aux exigences du bloc 6 du titre Concepteur Développeur en Science des Données. <br>
-
 Développées par l'équipe de Looker, les données sont celles d'un site de vente en ligne vêtements. <br>
 
 Ainsi nous y trouvons des informations sur les clients, les produits, les commandes, la logistique, les événements web et les campagnes de marketing digital. <br>
@@ -25,12 +23,9 @@ Ceci pour être en mesure de répondre à une problématique d'optimisation des 
 **DOSSIER** | **CONTENU** | **FORMAT** 
 :---|:--- |:---
  00_Presentation | Présentation | .pptx 
- 01_Data_input | Datasets utilisés pour le projet | .csv
- 02_Data_output | Datasets consolidés | .csv
- 03_Python | Data Processing |.ipynb
- 04_Powerbi | Dashboard et Analyse | .pbix
- 05_Streamlit | Modèle de machine learning |.py
- 99_Pictures | Bibliothèque de photos utilisées | .jpg
+ 01_Python | Data Processing |.ipynb
+ 02_Powerbi | Dashboard et Analyse | .pbix
+ 99_Pictures | Bibliothèque de photos utilisées | .jpg / .png 
  
  <br>
 
